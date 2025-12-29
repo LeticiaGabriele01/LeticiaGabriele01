@@ -31,9 +31,9 @@ Desenvolvedora apaixonada por tecnologia e inovação. Sempre em busca de novos 
 <!-- Adicione aqui seus projetos favoritos -->
 
 ## 📫 Como me encontrar
-- 💼 LinkedIn: [Seu LinkedIn]
-- 📧 Email: [Seu Email]
-- 🐦 Twitter: [Seu Twitter]
+- 💼 LinkedIn: Leticia Conceição
+- 📧 Email: leticiaconceicao446@gmail.com
+
 
 ## ⚡ Fato curioso
 Adoro resolver problemas complexos e transformar ideias em código! 
