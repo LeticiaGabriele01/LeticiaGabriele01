@@ -13,9 +13,9 @@ Desenvolvedora apaixonada por tecnologia e inovação. Sempre em busca de novos 
 
 ## 📊 Estatísticas do GitHub
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LeticiaGabriele01&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LeticiaGabriele01&layout=compact&langs_count=7&theme=dracula"/>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LeticiaGabriele01&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LeticiaGabriele01&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ## 🐍 Contribuições
@@ -31,7 +31,7 @@ Desenvolvedora apaixonada por tecnologia e inovação. Sempre em busca de novos 
 <!-- Adicione aqui seus projetos favoritos -->
 
 ## 📫 Como me encontrar
-- 💼 LinkedIn: Leticia Conceição
+- 💼 LinkedIn: Letícia Conceição
 - 📧 Email: leticiaconceicao446@gmail.com
 
 ## ⚡ Fato curioso
