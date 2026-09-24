@@ -18,12 +18,12 @@ Desenvolvedora apaixonada por tecnologia e inovação. Sempre em busca de novos 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-## 📊 Estatísticas do GitHub
+<!--## 📊 Estatísticas do GitHub
 
 <div align="center">
   <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LeticiaGabriele01&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-
+-->
 
 ## 🐍 Contribuições
 
