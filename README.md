@@ -1,6 +1,6 @@
 # Hi there, I'm Leticia! 👋
 
-Futura Engenheira de TI & Desenvolvedora de Software baseada em Araraquara, SP. Atuo na interseção entre **Desenvolvimento Backend**, **Arquitetura de Infraestrutura de Rede** e **Segurança da Informação / LGPD**.
+Futura Engenheira de Computação & Desenvolvedora de Software baseada em Araraquara, SP. Atuo na interseção entre **Desenvolvimento Backend**, **Arquitetura de Infraestrutura de Rede** e **Segurança da Informação / LGPD**.
 
 Tenho experiência prática no desenho end-to-end de soluções tecnológicas corporativas — desde a criação de aplicações robustas em **C# / .NET** e **Java** até a virtualização de servidores, segurança em camadas e ambientes de alta disponibilidade.
 
