@@ -62,9 +62,10 @@ Tenho experiência prática no desenho end-to-end de soluções tecnológicas co
 ![Snake animation](https://github.com/LeticiaGabriele01/LeticiaGabriele01/blob/output/github-contribution-grid-snake.svg)
 
 ## 🌱 Atualmente estudando
-- Novas tecnologias
-- Melhores práticas de desenvolvimento
-- Arquitetura de software
+- ☁️ **Cloud Architecture:** Aprofundando conhecimentos em Microsoft Azure & AWS
+- 🔄 **DevOps & IaC:** Automação de infraestrutura com Terraform, Ansible e CI/CD via GitHub Actions
+- 🏗️ **Backend Avançado:** Microsserviços, Mensageria (RabbitMQ/Kafka) e Clean Architecture em C# e Java
+- 🛡️ **DevSecOps:** Práticas de Segurança em Nuvem, Zero Trust e Gestão de Vulnerabilidades
 ---
 
 ## 📫 Como me encontrar
