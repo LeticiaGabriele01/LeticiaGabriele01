@@ -6,20 +6,20 @@ Tenho experiência prática no desenho end-to-end de soluções tecnológicas co
 
 ---
 
-### 🚀 Stack & Tecnologias
+###  Stack & Tecnologias
 
-#### 💻 LINGUAGENS & BACKEND
+####  LINGUAGENS & BACKEND
 - **Linguagens Principais:** C# (.NET Core / .NET Framework), Java (Spring Boot)
 - **Aplicações:** Desenvolvimento de software corporativo, APIs RESTful, integração de sistemas ERP (TOTVS) e automações
 - **Banco de Dados & Storage:** SQL Server, PostgreSQL, RAID storage management
 
-#### 🛠️ INFRAESTRUTURA, VIRTUALIZAÇÃO & DEVOPS
+####  INFRAESTRUTURA, VIRTUALIZAÇÃO & DEVOPS
 - **Virtualização & Containers:** Proxmox VE, Máquinas Virtuais (Linux/Windows), Containers LXC, Docker
 - **Redes & Switching:** Topologias 10G SFP+, routing L3, segmentação VLAN (IEEE 802.1Q), MikroTik (RouterOS), Ubiquiti UniFi (Wi-Fi 6/7)
 - **Sistemas Operacionais:** Linux (Ubuntu/Debian), Windows Server (Active Directory, GPO)
 - **Observabilidade & ITSM:** Zabbix, Grafana, GLPI
 
-#### 🛡️ SEGURANÇA & CLOUD
+####  SEGURANÇA & CLOUD
 - **Segurança da Informação:** Implementação de arquiteturas de defesa em profundidade (5 Camadas LGPD), EDR, DLP
 - **Firewall & NGFW:** MikroTik, OPNsense, regras inter-VLAN e inspeção de tráfego
 - **Cloud & Produtividade:** Ecossistema Microsoft 365 Business Premium, Entra ID (P1), Purview, Intune
@@ -61,14 +61,14 @@ Tenho experiência prática no desenho end-to-end de soluções tecnológicas co
 
 ![Snake animation](https://github.com/LeticiaGabriele01/LeticiaGabriele01/blob/output/github-contribution-grid-snake.svg)
 
-## 🌱 Atualmente estudando
+##  Atualmente estudando
 - ☁️ **Cloud Architecture:** Aprofundando conhecimentos em Microsoft Azure & AWS
 - 🔄 **DevOps & IaC:** Automação de infraestrutura com Terraform, Ansible e CI/CD via GitHub Actions
 - 🏗️ **Backend Avançado:** Microsserviços, Mensageria (RabbitMQ/Kafka) e Clean Architecture em C# e Java
 - 🛡️ **DevSecOps:** Práticas de Segurança em Nuvem, Zero Trust e Gestão de Vulnerabilidades
 ---
 
-## 📫 Como me encontrar
+##  Como me encontrar
 - 💼 LinkedIn: [Letícia Conceição](https://www.linkedin.com/in/leticia-conceição-dev/)
 - 📧 Email: leticiaconceicao446@gmail.com
 
